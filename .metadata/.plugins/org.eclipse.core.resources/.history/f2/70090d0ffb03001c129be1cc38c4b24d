@@ -1,0 +1,16 @@
+package com.bridgelabz.functionalprograms;
+
+import java.io.OutputStreamWriter;
+import java.io.PrintWriter;
+import java.util.Scanner;
+
+public class TwoDimesionalArray {
+	public static void main(String[] args) {
+		OutputStreamWriter osw = new OutputStreamWriter(System.out);
+		PrintWriter pw = new PrintWriter(osw, true);
+		Scanner scanner = new Scanner(System.in);
+		int choice = scanner.nextInt();
+		switch(choice)
+
+	}
+}
